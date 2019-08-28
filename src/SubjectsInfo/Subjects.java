@@ -1,5 +1,5 @@
 package SubjectsInfo;
 
 public enum Subjects {
-    MATH, SCIENCE, GEOGRAPHY, ENGLISH
+    MATH, SCIENCE, GEOGRAPHY, ENGLISH, HISTORY
 }
